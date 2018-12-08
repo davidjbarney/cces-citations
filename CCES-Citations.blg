@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: CCES-Citations.aux
+The style file: apsr.bst
+Database file #1: CCES-Citations.bib.bib
+Reallocated field_info (elt_size=4) to 10016 items from 5000.
+Warning--can't use both volume and number fields in evans2014congressional
+Warning--can't use both volume and number fields in hood2016race
+Warning--empty publisher in jacobson2008president
+Warning--can't use both volume and number fields in rhodes2017america
+Warning--there's a number but no volume in stone2010simas
+You've used 295 entries,
+            2901 wiz_defined-function locations,
+            1975 strings with 48873 characters,
+and the built_in function-call counts, 1284922 in all, are:
+= -- 210603
+> -- 16447
+< -- 3
++ -- 98532
+- -- 5188
+* -- 110058
+:= -- 255582
+add.period$ -- 1186
+call.type$ -- 295
+change.case$ -- 3835
+chr.to.int$ -- 286
+cite$ -- 300
+duplicate$ -- 4785
+empty$ -- 10301
+format.name$ -- 5448
+if$ -- 232363
+int.to.chr$ -- 14
+int.to.str$ -- 0
+missing$ -- 299
+newline$ -- 1193
+num.names$ -- 3426
+pop$ -- 905
+preamble$ -- 1
+purify$ -- 4425
+quote$ -- 0
+skip$ -- 4110
+stack$ -- 0
+substring$ -- 297922
+swap$ -- 956
+text.length$ -- 4133
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1172
+warning$ -- 5
+while$ -- 7143
+width$ -- 0
+write$ -- 4006
+(There were 5 warnings)
